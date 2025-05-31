@@ -173,7 +173,7 @@ font-size:18px;
 .sectionSubtag{
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 }
-thumbnail img{
+.thumbnail img{
 width:250px;
 border:2px solid black;
 border-radius: 26px;
@@ -227,6 +227,7 @@ top: 15px;
 @media only screen and (max-width: 1140px){
     .nav-list{
         flex-direction: column;
+ 
     }
     .navbar{
         height: 447px;
